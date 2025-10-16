@@ -2,6 +2,6 @@
 <layers>
   <layer
       name="zopyx.connector"
-      interface="zopyx.connector.interfaces.IZopyxConnectorLayer"
+      interface="zopyx.connector.interfaces.IBrowserLayer"
       />
 </layers>
