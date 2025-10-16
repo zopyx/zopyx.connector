@@ -53,7 +53,7 @@ setup(
     install_requires=[
         "setuptools",
         # -*- Extra requirements: -*-
-        "z3c.jbot",
+        "z3c.jbot==2.2",
         "plone.api>=1.8.4",
         "plone.app.dexterity",
     ],
